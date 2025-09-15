@@ -279,8 +279,7 @@ jobs:
           now_line \
           profiles \
           basal_lock \
-          live_activity \
-          negative_insulin
+          negative_insulin \
 
           # Submodule LoopKit patches:
           # General template for customizing submodule LoopKit
